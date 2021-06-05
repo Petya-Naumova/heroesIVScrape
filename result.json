@@ -2230,37 +2230,5 @@
     "biography": "Urnaka and her husband used to run a forge, selling their work to the highest bidder. Sadly, her husband perished in the Reckoning. She hasn't stepped foot in a forge since, embarking instead on a new career as an mage.",
     "history": "New",
     "sex": "female"
-  },
-  {
-    "imageUrl": "CaptainSwift.gif",
-    "name": "Captain Swift",
-    "race": "Male Human",
-    "biography": "Swift is the infamous captain of the pirate ship, Assassin. Although he is as merciless as any rogue, he sometimes exhibits a sense of honor that most pirates scoff at. Perhaps there is some truth to the rumor that Swift used to be an admiral in the Queen's navy.",
-    "history": "New\n\tPart in: A Pirate's Daughter",
-    "sex": "male"
-  },
-  {
-    "imageUrl": "PeteGirly.gif",
-    "name": "Pete Girly",
-    "race": "Male Human",
-    "biography": "Pete is famous for his skills in torture and interrogation. He is a dangerous man to have as an enemy, but can’t be trusted as an ally either. He gets his odd name from his extremely long, blonde hair - a joke he accepts with pride now, but the man who first made it up is long dead.",
-    "history": "New\n\tPart in: A Pirate's Daughter",
-    "sex": "male"
-  },
-  {
-    "imageUrl": "TawniBalfour.gif",
-    "name": "Tawni Balfour",
-    "race": "Female Human",
-    "biography": "It took a cutthroat attitude and calculating ambition for Tawni to survive the rough sailor towns where she was raised. When this fiercely independent woman became a pirate, she soon followed her infamous father’s footsteps and became the scourge of the sea. No matter how much Tawni gains, however, it is never enough.",
-    "history": "New\n\tPart in: A Pirate's Daughter",
-    "sex": "male"
-  },
-  {
-    "imageUrl": "Cyrca.gif",
-    "name": "Cyrca",
-    "race": "Female Half-Medusa",
-    "biography": "Cyrca is the daughter of a powerful medusa sorceress and a human necromancer. She later followed in her mother’s footsteps and became a leader of her people. Although she is not a real medusa (and can’t turn anyone into stone), she has held her rule thanks to her considerable magical talent.",
-    "history": "New\n\tPart in: A Pirate's Daughter (Original Homm4 Chaos Campaign).",
-    "sex": "female"
   }
 ]

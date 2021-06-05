@@ -45,7 +45,7 @@ const fs = require('fs');
     }
 
     const links = await page.evaluate(() => {
-        return Array.from(document.querySelectorAll('a[href^=heroes_]')).map((link) => {
+        return Array.from(document.querySelectorAll('a[href^=heroes_]:not([href*=campaign])')).map((link) => {
             return link.getAttribute('href');
         });
     });
