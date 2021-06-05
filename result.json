@@ -1,0 +1,2266 @@
+[
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Ajit.gif",
+    "name": "Ajit",
+    "race": "Human",
+    "biography": "Ajit is at home in the dank tunnels and caves of the world, but has come to realize that the real wealth is to be had in the open air. People may mine gold from deep underground, but they store it all in vaults above ground where Ajit can steal it all at once.",
+    "history": "Since Restoration of Ertahia (Homm3 All parts) Human Overlord",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Calistar.gif",
+    "name": "Calistar",
+    "race": "Minotaur",
+    "biography": "Calistar is somewhat of a hero among minotaurs. His bold raids have brought back more wealth than three other minotaurs combined, and he has defeated countless challengers in feats of strength. Even worse, Calistar is beginning to believe all the remarkable things people say about him.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Dace.gif",
+    "name": "Dace",
+    "race": "Minotaur",
+    "biography": "Dace is a veteran leader of the minotaurs who has seen more fights than he can remember. He claims to have been trained by the minotaur god of war, and so has dedicated his life to endless conflict. What he fails to mention is that many of the people he has killed never knew he was coming.",
+    "history": "Since Restoration of Ertahia (Homm3 All parts) Minotaur Overlord",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Flaym.gif",
+    "name": "Flaym",
+    "race": "Efreet",
+    "biography": "Flaym is an unpredictable leader capable of using just about anything to get the edge over his enemy. Unfortunately, the word has spread that he will sacrifice his own troops if need be. The only reason they continue fighting for him is they fear Flaym more than death.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Gruezak.gif",
+    "name": "Gruezak",
+    "race": "Orc",
+    "biography": "Gruezak started as a cook in Kilgor's army but deserted shortly before the final battle that brought about the Reckoning. Many of the orc tribes were wiped out during that war, including his own. Now, Gruezak, like so many orcs, has resorted to banditry and other crimes simply to survive.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Gundross.gif",
+    "name": "Gundross",
+    "race": "Minotaur",
+    "biography": "Unlike most of his race, Gundross is a master of adapting to new situations. In the event of unforeseen circumstances, he reacts with complete confidence in his ability to come up with a plan in an instant. This creative way of dealing with things has been his secret to success.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Hafir.gif",
+    "name": "Hafir",
+    "race": "Efreet",
+    "biography": "Hafir developed an intense hatred for genies after centuries of battling his blue cousins, but he's also developed a reputation for knowing them better than any other efreet. When his actions aren't clouded by his hatred, Hafir is an excellent commander and a formidable opponent.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Kardd.gif",
+    "name": "Kardd",
+    "race": "Human",
+    "biography": "Kardd was a trader for most of his life, selling his wares all over Erathia (marked up 300 percent, of course). After the Reckoning, he lost many of his contacts and all of his trade routes. His business was over. So, now he spends his time robbing the men who used to be his competitors.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Madmarik.gif",
+    "name": "Madmarik",
+    "race": "Orc",
+    "biography": "Not only is Madmarik capable of notorious fits of fury, but he's probably the largest living orc today. Perhaps it's his size, but he isn't afraid of anything and boasts that there isn't a man or creature capable of beating him in a one-on-one fight. As of yet, no one has proved him wrong.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Nazibar.gif",
+    "name": "Nazibar",
+    "race": "Efreet",
+    "biography": "Nazibar will do anything for the right price, and his price is usually high. He even claims that he is using his ill-gotten wealth to employ his own personal army of mercenaries. Supposedly, this army waits at some undisclosed location to attack at his slightest command.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Rufus.gif",
+    "name": "Rufus",
+    "race": "Human",
+    "biography": "Rufus started his career as a brawler, living off the power of his fists and the money he won betting on himself. When that wasn't enough, he started ambushing drunks outside taverns or roughing up merchants on the open road. Rufus doesn't care much for laws, and takes great pride in breaking them.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Runagark.gif",
+    "name": "Runagark",
+    "race": "Orc",
+    "biography": "Runagark is motivated entirely by his stomach. If he were a wealthy orc, he would be too fat to walk. As it is, he is forced to steal whatever gold he needs to buy his meals because he's not about to waste his time with a real job.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Aidan.gif",
+    "name": "Aidan",
+    "race": "Efreet",
+    "biography": "Aidan is smaller and weaker than most efreet, which is why she prefers to live among softer races such as humans. Since her profession requires her to be inconspicuous, Aidan has learned to perform her crimes only when another one of her race has made an appearance to throw off the trail.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Andria.gif",
+    "name": "Andria",
+    "race": "Minotaur",
+    "biography": "Andria earned some success as a minotaur gladiator due to her wiry strength and great cunning, but she knew she would soon perish to one of the larger, bulkier males. So, she left the arenas to explore the world, hunt for treasure, and occasionally rob an unwary traveler.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/EricaFade.gif",
+    "name": "Erica Fade",
+    "race": "Human",
+    "biography": "Erica's life was ruined by war when her entire family was slaughtered. She only escaped by hiding in a nearby forest. That day, she realized that life is meaningless, so she might as well take care of 'number one'. That's when she became Erica Fade.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Flaren.gif",
+    "name": "Flaren",
+    "race": "Human",
+    "biography": "Flaren abandoned her orc tribe because ideals like honor and glory meant nothing to her. Instead, she preferred the quick kill and some gold in her pocket. Instant gratification is important to this impatient and mean-spirited female.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Gretchin.gif",
+    "name": "Gretchin",
+    "race": "Goblin",
+    "biography": "Gretchin believed in Kilgor's plan for world domination and trusted in his leadership. Her loyalty got her entire tribe killed. Now, furious and troubled with guilt, Gretchin has become a loner who lashes out at everyone around her. Without the laws of her tribe to guide her, she's free to do as she wishes.",
+    "history": "Since Restoration of Ertahia (Homm3 All parts) Goblin Barbarian",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Hoogula.gif",
+    "name": "Hoogula",
+    "race": "Orc",
+    "biography": "Hoogula didn't even know she was a female until her adolescence. Her father wanted a boy so badly that her mother lied and did everything in her power to cover up that lie. Today, Hoogula still doesn't act like a female, and becomes extremely violent at the slightest hint she might be inferior.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Jael.gif",
+    "name": "Jael",
+    "race": "Minotaur",
+    "biography": "Jael's name is actually a type of high mountain goat. It was given to her as an insult because she prefers to live alone in the mountains rather than the minotaur communities. Now, she accepts the name proudly because this mountain goat has robbed more minotaur merchants than anyone.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Kineta.gif",
+    "name": "Kineta",
+    "race": "Human",
+    "biography": "Kineta has trouble retaining her interest in any one job for long, so she has dipped her fingers into just about everything from merchant, to thief, to spy. It doesn't matter what she's doing as long as it is fun, and her idea of fun usually involves some form of wanton destruction.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Lorelei.gif",
+    "name": "Lorelei",
+    "race": "Human",
+    "biography": "Shortly after the Reckoning, Lorelei began a crime wave that earned her the nickname \"Nightblade.\" She robbed more communities than anyone can imagine, stashing her plunder in secret caches. She was a one-woman scourge. Whenever the pressure is on, Lorelei simply disappears to some secret hideout for a few months.",
+    "history": "Since Restoration of Ertahia (Homm3 All parts) Human Overlord",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Octavia.gif",
+    "name": "Octavia",
+    "race": "Efreet",
+    "biography": "Octavia is an accomplished thief with the legendary ability to slip unseen into any location. Whether that is true or not, Octavia has been quite successful in the past. She would be a wealthy efreet today if not for her ridiculous spending habits.",
+    "history": "Since Restoration of Ertahia (Homm3 All parts) Efreet Demoniac",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Sizz.gif",
+    "name": "Sizz",
+    "race": "Efreet",
+    "biography": "Sizz specializes in obtaining things that are not hers, performing these crimes as much for the fun of it as the notoriety. It is rumored that somewhere inside a live volcano, Sizz keeps a vault filled with a massive treasure, but this is unlikely since she is always complaining about being poor.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Tacitia.gif",
+    "name": "Tacitia",
+    "race": "Minotaur",
+    "biography": "Tacita never feels the need to brag about the elaborate crimes she has committed, which is why she hasn't been caught. Being a minotaur makes her an unlikely suspect for crimes that require finesse, yet Tacita earns a good living performing just those sorts of robberies.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Human Thief",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Valynne.gif",
+    "name": "Valynne",
+    "race": "Human",
+    "biography": "A true thief at heart, Valynne causes trouble wherever she goes. Although she has spent many nights in a dungeon, she has avoided the noose so far. Valynne lives in the present, never looking to the future because she expects to die at any moment.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Ajwar.gif",
+    "name": "Ajwar",
+    "race": "Orc",
+    "biography": "Long, tiring marches and bloody battles were not to Ajwar's liking, so he studied magic instead. Now, he can obliterate an opponent from a great distance. For him, this is a much more sensible means of combat, especially if he can do it when they're not looking.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Charzir.gif",
+    "name": "Charzir",
+    "race": "Efreet",
+    "biography": "Charzir is a young efreet filled with such a passion for chaos that even among his own kind he's considered impetuous and wild. He loves games of chance, sometimes wagering even his own life on the roll of the dice. To Charzir, it's not the winning but the uncertainty that is exciting.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Darkstorm.gif",
+    "name": "Darkstorm",
+    "race": "Minotaur",
+    "biography": "Darkstorm has proven time and again that any who challenge him meet a quick end. He continues to be a dangerous and powerful presence in this new world where his reputation precedes him like the dark clouds before a thunderstorm.",
+    "history": "Since Restoration of Ertahia (Homm3 All parts) Minotaur Warlock",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Iboz.gif",
+    "name": "Iboz",
+    "race": "Efreet",
+    "biography": "Iboz is often called the \"Warrior's Sorcerer\" because he gets along well with the common grunt. Besides, someone with his power is always good to have around. Often, mercenaries follow him from war to war because Iboz always joins the side with the best chance of victory.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Jeddite.gif",
+    "name": "Jeddite",
+    "race": "Human",
+    "biography": "Some sorcerers may enjoy causing destruction, but Jeddite worships it. He is a dark fanatic wholly committed to the ultimate dissolution of the universe. No one knows why he adopted such insane beliefs, but neither can anyone convince him to turn to another path.",
+    "history": "Since Restoration of Ertahia (Homm3 All parts) Human Warlock",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Kaspar.gif",
+    "name": "Kaspar",
+    "race": "Human",
+    "biography": "Kaspar spent several years in an Erathian prison for impersonating a noble and accumulating more than 100,000 gold in debt. While in the dungeons, however, he learned magic from an old, nameless sorcerer. When an earthquake shattered the wall to his cell, Kaspar escaped through the nearest portal to the new world.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Maddox.gif",
+    "name": "Maddox",
+    "race": "Minotaur",
+    "biography": "There is something to be said about the diligence of the minotaurs. Maddox was a smith, destined to forge axes for the rest of his life. Instead of accepting his fate, he studied magic at night until he was good enough to leave the forge and embark on a life of conquest.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Mastero.gif",
+    "name": "Mastero",
+    "race": "Human",
+    "biography": "Mastero always follows the path of least resistance, which is why he usually keeps a few servants around. If he can get someone else to do the job, he will. Even in battle, he has been known to let others soften up the enemy before he finishes them off and takes all the credit.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Norzok.gif",
+    "name": "Norzok",
+    "race": "Orc",
+    "biography": "Norzok fell in love with the sea the first time he set eyes on it, and when he saw his first hurricane he dreamed of some day controlling one. This dream led him to kidnap a sorcerer and hold him captive for several years, forcing the poor man to teach him magic. But even now, Norzok isn't satisfied.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Ritzil.gif",
+    "name": "Ritzil",
+    "race": "Orc",
+    "biography": "After running away from his tribe when he was young, Ritzil was found and raised by a sadistic ogre mage. Ritzil was always mischievous, but his time with the ogre gave him an imagination cruel and creative enough to blend mayhem and magic into a new and very deadly art form.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Scorage.gif",
+    "name": "Scorage",
+    "race": "Human",
+    "biography": "Scorage's actions are ruled by his instincts, no matter the situation. If he is hungry and has no money, he steals some food. If he dislikes someone or some thing, he attacks it. This behavior might make many enemies, but Scorage rarely lets them live for long.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Uvodd.gif",
+    "name": "Uvodd",
+    "race": "Minotaur",
+    "biography": "In his youth, Uvodd rode the high seas aboard a pirate vessel, protecting it with his destructive magical powers. A tidal wave sunk his ship and nearly drowned him as well, but he beat the storm in the same way he defeats all his enemies - persistence.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Xyron.gif",
+    "name": "Xyron",
+    "race": "Efreet",
+    "biography": "Xyron felt the Kreegan demons failed all too often, so he convinced his fellow efreeti to end their alliance with them. Now, his people are freer than they have ever been. Free to burn what they want, when they want, and nothing will stop them from scorching the entire world black!",
+    "history": "Since Restoration of Ertahia (Homm3 All parts) Efreet Heretic",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Aathea.gif",
+    "name": "Aathea",
+    "race": "Efreet",
+    "biography": "Whether it's a war with genies, or humans, or even her own kind, the opponent doesn't matter to Aathea. Everyone and everything is fair game in her book. Likewise, Aathea is not above using whatever means it takes to win, because the winner is the one who gets to live.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Atella.gif",
+    "name": "Atella",
+    "race": "Minotaur",
+    "biography": "Atella is a teacher as well as a mage, although it has been a while since she took an apprentice. She's highly respected among minotaur society, and feared because she somehow knows everyone's darkest secrets and isn't afraid to expose them.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Helice.gif",
+    "name": "Helice",
+    "race": "Minotaur",
+    "biography": "Helice is capable of devoting hours to study and contemplation, but when she is done she usually bursts into a violent rage that has been known to last for the better part of a day. Her unpredictable behavior makes those around her edgy, but no one is going to tell her to go away either.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Isa.gif",
+    "name": "Isa",
+    "race": "Orc",
+    "biography": "Isa believes she wasted too many years serving a cruel human master who only ended up getting himself killed in battle, leaving her nothing. Now, she seldom rests because she's trying to make up for lost time, and she relies on no one but herself.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Mayweda.gif",
+    "name": "Mayweda",
+    "race": "Human",
+    "biography": "How can such a pretty young girl become such a dangerous woman? Mayweda may be beautiful, the type who might need to be rescued by a knight, but she's more likely to drop a poisonous snake down the armor of any brave hero who comes to her aid.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Mered.gif",
+    "name": "Mered",
+    "race": "Orc",
+    "biography": "Mered comes from a long line of orc women who were tribal sorcerers, so it was easy for her to slip into this profession. She would've continued as a primitive spellcaster if the Reckoning hadn't killed most of her tribe. Now, she wants more than to follow the path of her foremothers. She wants wealth and power.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Nefafareen.gif",
+    "name": "Nefafareen",
+    "race": "Efreet",
+    "biography": "Ancient even for an efreet, Nefafareen is credited as the first of her kind to abandon her innate powers to wield magic. All efreeti sorcerers have either been taught by Nefafareen or by one of her students. Until recently, she has lived exclusively on the Plane of Fire, traveling to this realm now for an unspoken reason.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Pythia.gif",
+    "name": "Pythia",
+    "race": "Efreet",
+    "biography": "Pythia served a powerful sorcerer for decades to learn the secrets of his power. When there was nothing more to learn, she abandoned the old man to his enemies and set out to create an empire of her own. So far, however, she has only managed to make a name for herself as a deadly robber.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Raona.gif",
+    "name": "Raona",
+    "race": "Human",
+    "biography": "Raona was raised in an Erathian orphanage run by monks who put all the children on a strict regimen of chores, study, prayer, and more chores. Not one moment of fun. To this day she still fights tooth and nail against any hint of order or common sense, and just wants to shake things up!",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Sephinroth.gif",
+    "name": "Sephinroth",
+    "race": "Human",
+    "biography": "Sephinroth was amused when the Reckoning destroyed Erathia and ended the Gryphonheart line. She even admits that her claim to be a Gryphonheart began as an extortion attempt that backfired when the King refused to pay. Now, this scandalous woman is on to bigger and better things!",
+    "history": "Since Restoration of Ertahia (Homm3 All parts) Human Warlock",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Yorpix.gif",
+    "name": "Yorpix",
+    "race": "Orc",
+    "biography": "Yorpix became a sorcerer because no orc male would have such an independent female as a mate. Besides, she didn’t want one of those weaklings anyway. Few people can put up with Yorpix's abuse, and now that she has magic at her command many fear her unpredictable temper.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Yoru.gif",
+    "name": "Yoru",
+    "race": "Minotaur",
+    "biography": "Yoru showed a talent for magic at an early age, so her family sent her away to study under a human sorcerer. As she traveled the world with her teacher, she studied its various races with great interest, but there is one race she wishes she knew more about - minotaurs.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Aglion.gif",
+    "name": "Aglion",
+    "race": "Human",
+    "biography": "Aglion's demon master raised him to be the perfect warrior. His life, even his personality, is centered on war, killing, and victory. Losing is not acceptable! Even though the demon who ruled him is now dead, Aglion continues on the violent path he was set upon at birth.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Arkenvoss.gif",
+    "name": "Arkenvoss",
+    "race": "Zombie",
+    "biography": "Arkenvoss is an ancient zombie death knight from a time when his master dominated the world. However, centuries of memories tend to blend together in his undead mind, so his origin is clouded in the fog of the past. All he knows is he's waiting for the day when his master returns to this world.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Calh.gif",
+    "name": "Calh",
+    "race": "Demon",
+    "biography": "Calh knows when to abandon a sinking ship, and the disastrous performance of the Kreegans in the years prior to the Reckoning was a big sign of things to come. So, this intelligent military leader was one of the first demons to slip into the new world where he could carve out a little piece for himself.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Demon Demoniac",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Gargareen.gif",
+    "name": "Gargareen",
+    "race": "Demon",
+    "biography": "Politically crafty as well as a fearless death knight, Gargareen is more interested in gaining power over his kind and rebuilding the Kreegan empire than attaining meaningless concepts such as glory. He keeps a list somewhere of the demons who need to be eradicated before he can accomplish this goal.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Grok.gif",
+    "name": "Grok",
+    "race": "Demon",
+    "biography": "Grok used to be a lesser demon, a plain warrior. He never considered himself smart enough to rule anyway. As far as he was concerned, any day that he survived through to the end was a good day. Now that the Kreegan empire has crumbled, he's on his own, which is the way he likes it.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Harkenraz.gif",
+    "name": "Harkenraz",
+    "race": "Demon",
+    "biography": "Imperious Harkenraz is proud of his skills as a death knight and enjoys nothing more than one-on-one contests with other heroes known for their fighting ability. He's even slain his fellow demons on occasion, which has made him feared and unpopular among his own kind.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Jarvis.gif",
+    "name": "Jarvis",
+    "race": "Human",
+    "biography": "At first glance, this clean-cut, well-mannered man appears to be an average knight, but a dark heart dwells within that handsome exterior. Jarvis is one of the most depraved men alive. Nothing is sacred to him, and with each passing day he sinks further and further into his darkest thoughts.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Malustar.gif",
+    "name": "Malustar",
+    "race": "Demon",
+    "biography": "Malustar is an ancient demon born near the dawn of time. The name he gives everyone is not the one he was born with, for that name is unpronounceable. He has come here from another realm with the sole purpose of dragging his kind back from the brink of extinction.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Moander.gif",
+    "name": "Moander",
+    "race": "Lich",
+    "biography": "Most liches become powerful spellcasters, but Moander was a fallen knight in his previous life. He loved military life. So, this charismatic leader turned away from magic to spend eternity enjoying the intricacies of battle - the strategy, the victory, and, of course, the death.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Lich Death Knight",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Panur.gif",
+    "name": "Panur",
+    "race": "Human",
+    "biography": "Panur is often judgmental about the level of incompetence among his fellow demons, and has been known to eradicate those who fail him. He's a thinking warrior, which doesn't mean he's weak. In battle there are few as fierce as Panur the Cleaver.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Straker.gif",
+    "name": "Straker",
+    "race": "Zombie",
+    "biography": "Straker used to be a handsome man who sought to keep his looks by becoming immortal. But he was duped into serving a lich and in return was transformed into a zombie servant instead. Now, he takes out his hatred of his own reflection on the bodies of his enemies.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Zombie Death Knight",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Varduum.gif",
+    "name": "Varduum",
+    "race": "Zombie",
+    "biography": "Varduum was a common soldier until his death. Then a necromancer raised him and crafted him to be the perfect undead warrior. But Varduum turned out to be cruel and treacherous, and killed his master at the first opportunity.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Xerxon.gif",
+    "name": "Xerxon",
+    "race": "Human",
+    "biography": "Ever since his youth, Xerxon has been a sadistic bully. He takes great pleasure in tormenting and hurting those around him, and he is never so happy as he is in the middle of battle. He is a death knight by trade, but he will not serve an employer for long during times of peace.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Charna.gif",
+    "name": "Charna",
+    "race": "Human",
+    "biography": "Charna was born with a dark heart. She has never felt compassion for another creature, and love is a myth as far as she is concerned. So, free of a conscience, she has been able to do things that even some demons balk at. When no one else will do the job, Charna is your woman.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Human Death Knight",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Docata.gif",
+    "name": "Docata",
+    "race": "Human",
+    "biography": "After the Kreegans conquered her home, Docata was selected by their commander, Malustar, to become his servant and student. She learned well, and performs her duties with all the emotion of a golem. Even other demons fear Docata's blank stare, while others wonder what kind of woman lies beneath the armor she will never remove.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Fiona.gif",
+    "name": "Fiona",
+    "race": "Human",
+    "biography": "When the Kreegan empire crumbled after the Reckoning, Fiona made an attempt to return to human society here in the new world. Only a few months later, this harsh woman was running from the law. Now, she accepts the fact that she will never fight with her people again.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Human Demoniac",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Luna.gif",
+    "name": "Luna",
+    "race": "Vampire",
+    "biography": "It's needless to speculate whether Luna was insane before or after she became a vampire. She doesn't even know. But her madness is her strength since few are as unpredictable as Luna in battle. Unfortunately, this means she can't be trusted entirely either.",
+    "history": "Since Strategic Quest (Homm1), Succession Wars (Homm2 + POL) Human Sorceress and Armageddon's Blade (Homm3 AB + SoD) Human Elementalist",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Oddrema.gif",
+    "name": "Oddrema",
+    "race": "Demon",
+    "biography": "Name your price and the person you want dead. Oddrema is the one to hire when you want someone to disappear. This sultry demon is so good at her job, in fact, that when you try to hire her you can't be wholly certain that she isn't on the job at that moment - coming for you.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Rahjuu.gif",
+    "name": "Rahjuu",
+    "race": "Demon",
+    "biography": "Silent, calm Rahjuu is known as the master of the hidden weapon. She is never unarmed, even if she is naked. Many have died when they let their guard down because they thought Rahjuu was harmless. The smart ones know she is never harmless.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Reeva.gif",
+    "name": "Reeva",
+    "race": "Vampire",
+    "biography": "Reeva is a vampire who specializes in feeding from young men. It's so easy to play innocent and weak, and when they let their guard down bite them before they realize their mistake. When she has someone trapped, however, she enjoys playing a little cat-and-mouse before she eats.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Shriek.gif",
+    "name": "Shriek",
+    "race": "Zombie",
+    "biography": "Shriek is more a force for death than a real death knight. She seeks combat for the pleasure of watching a victim's eyes as the life ebbs from them, and she rarely leaves the battlefield until she is certain that the life has been driven from all of her enemies.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Tamika.gif",
+    "name": "Tamika",
+    "race": "Vampire",
+    "biography": "As a lesser vampire, Tamika didn't have enough influence to lead the other undead, so she fought her way to the top. But the Reckoning cheated her of everything she had gained over the years. For a brief time she had the sort of life she always wanted, and nothing will stop her from getting it back.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Vampire Death Knight",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Vilexica.gif",
+    "name": "Vilexica",
+    "race": "Human",
+    "biography": "Vilexica believes it is just as important to look good in battle as it is to know how to kill properly. Her armor is always elaborate, her weapons more so - all in a menacing way. Throw in her flowery way of speaking and she is a sight to see - if not a little confusing to her enemies.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Winsela.gif",
+    "name": "Winsela",
+    "race": "Zombie",
+    "biography": "In life, Winsela was a knight obsessed with destroying the undead. She earned quite a reputation, too. Then a group of powerful liches and vampires teamed up against her, killed her, and made her one of their own, turning their greatest enemy into their most dangerous ally.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Yott.gif",
+    "name": "Yott",
+    "race": "Zombie",
+    "biography": "Yott would say her story is a tragic one. She was part of a powerful sorcerer's harem, but when he delved into the dark arts of necromancy he turned his entire household into zombies. With her life and beauty long gone, Yott fled, taking up a sword to make a place for herself in this harsh world.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Archilus.gif",
+    "name": "Archilus",
+    "race": "Vampire",
+    "biography": "Archilus was once a very wealthy man, but he spent it all capturing a powerful vampire and forcing it to make him one of the undead. When he was through, he cast the vampire who sired him into the sunlight. Now, this cold and patient man has an eternity to reclaim his wealth.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Ayden.gif",
+    "name": "Ayden",
+    "race": "Human",
+    "biography": "Ayden embraced Kreegan rule and trusted that they would dominate the world, but the demons failed. Now, this furious and ambitious spellcaster has severed all previous loyalties. The time has come for him to do things his way and seize control for himself.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Human Heretic",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Draezerak.gif",
+    "name": "Draezerak",
+    "race": "Demon",
+    "biography": "Before Draezerak took up necromancy, he specialized in instigating wars. The right words at the right time and he could even goad two loving brothers into a brutal conflict. Many assume he has retired from such manipulations, but when asked, Draezerak only smiles.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Endan.gif",
+    "name": "Endan",
+    "race": "Zombie",
+    "biography": "Endan was once one of Erathia's wisest sages, but in an attempt to understand the enemy he delved too deeply into the secrets of necromancy and the undead. Before he knew it, he had transformed himself into a powerful zombie and forever became an enemy of the living.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Hastner.gif",
+    "name": "Hastner",
+    "race": "Human",
+    "biography": "Pale as the undead himself, Hastner is actually a human who rarely sees the sunlight and also practices regular leeching. For Hastner, necromancy has always been a way to raise troops that don't complain and will do whatever you command them to do - even if it's suicide.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Harkenraz.gif",
+    "name": "Harkenraz",
+    "race": "Demon",
+    "biography": "Imperious Harkenraz is proud of his skills as a Necromancer and enjoys nothing more than one-on-one contests with other heroes known for their fighting ability. He's even slain his fellow demons on occasion, which has made him feared and unpopular among his own kind.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Hexx.gif",
+    "name": "Hexx",
+    "race": "Demon",
+    "biography": "Hexx has always been incapable of dominating his fellow demons physically, so for the longest time he was forced to do the jobs no one else wanted. After the Reckoning, many demons shied away from necromancy. Not Hexx. This was his chance to gain power, and his chance for revenge.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Kurtos.gif",
+    "name": "Kurtos",
+    "race": "Zombie",
+    "biography": "As a child, Kurtos was fascinated with death. He quickly learned how to kill all sorts of things, and realized that with a little coaxing they would come back again. For a long time he hid his morbid hobby, at least until his interest culminated when he transformed himself into one of the undead.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Mezizto.gif",
+    "name": "Mezizto",
+    "race": "Human",
+    "biography": "Like many before him, Mezizto seeks immortality through necromancy. But he is not interested in spending eternity as a disgusting lich or pathetic vampire. He believes that if he can uncover the secrets of death, then he will discover a way to avoid it forever.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Norticus.gif",
+    "name": "Norticus",
+    "race": "Lich",
+    "biography": "Long ago, Norticus ruled a grand kingdom with his wife, Baenefa, but as they grew older his beloved begged him to do something. Using all the wealth of his kingdom, Norticus transformed them both into liches. They lost their thrones, and each other, as a result.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Paskovich.gif",
+    "name": "Paskovich",
+    "race": "Vampire",
+    "biography": "It was probably one of Paskovich's twisted experiments that turned him into a vampire. One thing is certain, he wasn't always a necromancer, but more likely a mage since he still has a fascination with the secrets of the transformation of metals.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Zombie Death Knight",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Rab.gif",
+    "name": "Rab",
+    "race": "Vampire",
+    "biography": "Perhaps Rab's necromantic abilities are innate because his mind doesn't seem stable enough to work magic. As a young man, a rabid wolf mauled him. He was left untreated and went mad. Soon after, a chance encounter with a vampire left him undead but still not cured.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Sandro.gif",
+    "name": "Sandro",
+    "race": "Lich",
+    "biography": "Sandro's instinct to survive is almost as strong as his tireless ambition. His network of power in the old world was destroyed by the Reckoning, so now he has to start all over. Unfortunately, many of his old allies perished as well. But no one can say Sandro isn't up to the challenge.",
+    "history": "Since Strategic Quest (Homm1) Lich Warlock, Succession Wars (Homm2 + POL) and Restoration of Erathia (Homm3 All Parts) Lich Necromancer",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Sark.gif",
+    "name": "Sark",
+    "race": "Demon",
+    "biography": "Sark spent a thousand years as a 'tempter', a demon who magically assumes human form to recruit suitable people to his cause. He was good at it too. Now, this charming demon seeks more power through the study of necromancy. As he says, \"Death is no longer a means of escape!\"",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Aislinn.gif",
+    "name": "Aislinn",
+    "race": "Lich",
+    "biography": "Aislinn has an uncommon connection to the earth. Any time she becomes separated from it, she begins to feel uncomfortable - which is why she brings a bag of fresh soil with her everywhere she goes. Aislinn believes the worms and decay within the dirt actually talk to her.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Vampire (!) Necromancer",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Ash.gif",
+    "name": "Ash",
+    "race": "Demon",
+    "biography": "This demoness took the name Ash to remind all who oppose her what becomes of her enemies. Since her kind is dwindling in numbers, she has taken up a new kind of magic to assure her survival and abandoned all hope for the Kreegan plan of domination.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Demon Heretic",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Baenefa.gif",
+    "name": "Baenefa",
+    "race": "Lich",
+    "biography": "Baenefa has been a lich for so long that she is unable to remember her life as a human, except that when she was alive she was married to Norticus. Now, she feels nothing for him and only desires a kingdom of her own.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Castrata.gif",
+    "name": "Castrata",
+    "race": "Demon",
+    "biography": "Castrata is a collector of rare and ancient torture devices as well as the written confessions of interrogation victims. That is her hobby. Necromancy is her talent. She hopes that some day someone like her will collect the new devices she has been inventing.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Damala.gif",
+    "name": "Damala",
+    "race": "Elf",
+    "biography": "Damala was eleven when a fireball from a nearby volcano set her family home on fire. Her family burned right before her eyes and she suffered injuries over most of her body, but oddly a demon pulled her from the flames. Today, Damala serves the demons with undying loyalty.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Felina.gif",
+    "name": "Felina",
+    "race": "Demon",
+    "biography": "Felina is a young demon, wild and irresponsible. She rarely thinks about the consequences of her actions. Or perhaps she simply doesn't care? She does what feels good, and as far as she is concerned that is all that matters.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Hsine.gif",
+    "name": "Hsine",
+    "race": "Demon",
+    "biography": "Hsine (the 'H' is silent) despises the undead and would have nothing to do with them except her superiors have forced her to become a necromancer. To spite them, she has become far better than they expected, but Hsine is still unpleasant to be around - especially if you're undead.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Jessika.gif",
+    "name": "Jessika",
+    "race": "Lich",
+    "biography": "An obsessive desire to keep her beauty naively led Jessika to necromancy. She used her magic to stop the aging process and ultimately turned herself into a lich. Meanwhile, her mind sunk into darkness to the point where she still believes she is alive and gorgeous no matter what reflection she sees in the mirror.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Lamentia.gif",
+    "name": "Lamentia",
+    "race": "Human",
+    "biography": "As part of an experiment, Lamentia was conceived during her father's transformation from human to lich. Expectedly, she was born with a natural talent for necromancy as well as haunting eyes that can tear into your soul. So far, she has expressed no interest in becoming a lich herself.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Masqua.gif",
+    "name": "Masqua",
+    "race": "Demon",
+    "biography": "Masqua has a theory that necromancy holds the secret to world domination, that somewhere within the power of this evil magic is a spell that can raise every being that has ever died throughout time. This is her secret quest.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Thessa.gif",
+    "name": "Thessa",
+    "race": "Lich",
+    "biography": "Shortly before the Reckoning, Thessa was jailed for grave robbing and mutilating the dead. When a wildfire threatened to consume the prison, her captors simply watched her burn. Using her powers, Thessa forced her soul back into her charred body and was reborn as a lich.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Vidomina.gif",
+    "name": "Vidomina",
+    "race": "Human",
+    "biography": "Vidomina was a brilliant noblewoman who practiced a career in alchemy until she was banished when it was discovered that she was experimenting with reanimating dead flesh. That experience turned this scientific woman into the vindictive necromancer she is today.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Human Necromancer",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Yxia.gif",
+    "name": "Yxia",
+    "race": "Demon",
+    "biography": "Yxia was one of the first demons to embrace necromancy. She took to it easily because she has always had a morbid fascination with death. For one who is immortal, death is an oddity she can't quite understand. So, what better way to learn about death than to surround yourself with it?",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Archimemnon.gif",
+    "name": "Archimemnon",
+    "race": "Human",
+    "biography": "Archimemnon was a poor fisherman when he was drafted into military service. He didn't mind fighting for his country, but it bothered him being away from the the sea for so long. Once he was released from his duty, he became an adventurer hoping to raise enough gold to build his own.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Christian.gif",
+    "name": "Christian",
+    "race": "Human",
+    "biography": "During Erathia's restoration and the ensuing wars, Christian proved himself to be a loyal and valuable member of the military. He is a committed and organized commander who provides his service and adventurous spirit to any and all worthy causes.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Human Knight",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Dallas.gif",
+    "name": "Dallas",
+    "race": "Human",
+    "biography": "Dallas claims he is from another world, but he cannot explain how he came to this realm. He doesn't seem to be in a hurry to go back either. On the battlefield, he is a relentless and calculating commander who doesn't like to lose - even in simple games of chance.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Dalt.gif",
+    "name": "Dalt",
+    "race": "Human",
+    "biography": "Dalt wanders the world aimlessly, dealing with life one day at a time rather than making plans for the future. Since no one can truly know whether or not today will be their last day, why not live as if there is no tomorrow? That philosophy emboldens him to take great risks on the battlefield.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Laine.gif",
+    "name": "Laine",
+    "race": "Human",
+    "biography": "Laine almost became a priest, but his father convinced him to become a soldier in the Erathian military instead. As the eldest son, it was expected of him and he always does his duty. But to this day, he still regrets his choice and feels a spiritual emptiness inside.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Marcius.gif",
+    "name": "Marcius",
+    "race": "Human",
+    "biography": "War dragged Marcius out of his mundane life as a farmer and into the exciting career of a soldier. Later, he was knighted and spent many years fighting in Queen Catherine's army, never complaining. What's a little hard work when you get to participate in some of the most exciting.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Mardigo.gif",
+    "name": "Mardigo",
+    "race": "Human",
+    "biography": "Mardigo believes in taking the battle to the enemy, no matter the odds. Anything less is cowardly. This attitude has brought him many incredible victories over the years, but his tragic failures have been just as remarkable.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Mullich.gif",
+    "name": "Mullich",
+    "race": "Human",
+    "biography": "Mullich is a stoic, disciplined leader who keeps a keen eye on everyone under his command. He is highly respected for his experience and ability to encourage each man to perform beyond even their own expectations. But when he joins his men in a tavern, his quirks become all too apparent after a tankard or two.",
+    "history": "Since Armageddon's Blade (Homm3 SoD+AB) Human Knight",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Nathaniel.gif",
+    "name": "Nathaniel",
+    "race": "Human",
+    "biography": "Nathaniel is the first to admit that he was an arrogant snob until he was given command of a small unit along Erathia's borders. For two years, he protected the commoners from Barbarian invasion. He learned humility during this time, and he learned just how strong a peasant can be.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Orrin.gif",
+    "name": "Orrin",
+    "race": "Human",
+    "biography": "Orrin is a veteran of the former Erathian army, where he specialized in commanding sieges. He's an endlessly patient man who keeps in mind the lives of his troops first when he makes a combat decision. \"Never waste a life needlessly,\" he often says. \"And never act before you're ready!\"",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Human Knight",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Oyssin.gif",
+    "name": "Oyssin",
+    "race": "Human",
+    "biography": "Oyssin was raised by his father, a woodsman who many considered crazy because he forced his child to hunt his own food and chop all the firewood. But Oyssin's father also taught him to respect the land and to protect it. All who fight alongside Oyssin say there is no better friend, as long as you overlook the occasional eccentricity.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Rex%20Mundi.gif",
+    "name": "Rex Mundi",
+    "race": "Human",
+    "biography": "Rex Mundi had few interests as a child, so a knight's life seemed as good a career as any. However, under the guidance of his commanders, he soon learned to enjoy the discipline. Now, this veteran often trains young recruits, giving them some direction just as the military did for him.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Valoryn.gif",
+    "name": "Valoryn",
+    "race": "Human",
+    "biography": "Valoryn is an experienced knight with unwavering nerve. He has stood before a charging force of behemoths, his courage inspiring his comrades to do the same. But he is also notorious for being cautious, sometimes overly so, especially when he has to give the order to attack.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Zambu.gif",
+    "name": "Zambu",
+    "race": "Human",
+    "biography": "Zambu was a simple pigeon-handler for the Erathian military until a band of ogres ambushed Queen Catherine's camp. When Zambu realized the Queen was surrounded, he picked up a fallen sword and came to her defense. He became a hero that day, but unfortunately he has been forced to live up to that fame ever since.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Araja.gif",
+    "name": "Araja",
+    "race": "Human",
+    "biography": "Araja arrived in Palaedra with a retinue of servants. Many believe she's a princess from a far off land, although Araja refuses to confirm or deny such rumors. She's a haughty woman prone to giving orders, but she has proven herself to be a formidable commander as well.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Equila.gif",
+    "name": "Equila",
+    "race": "Human",
+    "biography": "Few leaders earn as much loyalty from their troops as Equila. She is a bold commander who always leads from the front, and her pre-battle speeches are legendary. Although her soldiers love her, none of them truly knows the woman beneath the armor.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Frini.gif",
+    "name": "Frini",
+    "race": "Human",
+    "biography": "Having a keen interest in mechanisms of all types, Frini had high hopes of becoming a wizard. However, when she discovered she had no talent for magic, she joined the military instead. At least now she can study the designs of ballistae and castle fortifications, both of which fascinate her greatly.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Gail.gif",
+    "name": "Gail",
+    "race": "Human",
+    "biography": "While the other girls of noble descent were practicing embroidery, Gail was running off to the stables to groom and feed the horses. As soon as she was old enough to enlist, she joined the military against her father's wishes, so he legally removed her from the family.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Julia.gif",
+    "name": "Julia",
+    "race": "Human",
+    "biography": "When Julia first became a knight, she didn't get many opportunities to use a sword. Instead, her commander put her organizational skills to great use by having her manage the supply lines. For years, she fought for reassignment, and when she finally got the chance to enter battle she was startled by its shameless horror.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Mierna.gif",
+    "name": "Mierna",
+    "race": "Human",
+    "biography": "Mierna met her fiance during combat training and instantly fell in love. They were to be married, but he was cut down in a skirmish with some of Kilgor's Barbarians. Today, she keeps mostly to herself as she pursues her career with single-minded commitment.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Olwa.gif",
+    "name": "Olwa",
+    "race": "Human",
+    "biography": "For years, Olwa trained the young boys in swordsmanship to prepare them for a career as knights. Her students always received the highest honors and went on to become heroes of great renown. Now that every sword arm is needed to tame this new world, it is her turn to make a name for herself.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Sigrid.gif",
+    "name": "Sigrid",
+    "race": "Human",
+    "biography": "Sigrid has a level of commitment to her cause that frightens even those who have similar beliefs. Perhaps it is the way she charges headlong into battle without a care for herself, or the way she must win every argument. Needless to say, this abrasive woman has few friends and many enemies.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Sorsha.gif",
+    "name": "Sorsha",
+    "race": "Human",
+    "biography": "Following Queen Catherine's example, Sorsha joined the Erathian military and quickly proved herself to be excellent with the sword. Since Erathia's fall, she has searched for another kingdom that puts justice and honesty before anything else.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Human Knight",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Tamara.gif",
+    "name": "Tamara",
+    "race": "Human",
+    "biography": "Tamara is respectful and kind, thoughtful in everything she does. She might have sought an academic life if she hadn't been dragged into military service by her twin sister, Thera. As long as her sister is out there risking her life, Tamara will remain nearby to protect her only family.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Thera.gif",
+    "name": "Thera",
+    "race": "Human",
+    "biography": "Thera is wild, brash and outgoing, an opposite to her twin, Tamara. Ever since she was a child, she would fight just about anyone, especially if she had a chance to stick up for someone who couldn't defend themselves. Today, she still has a soft spot for the underdog.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Tyris.gif",
+    "name": "Tyris",
+    "race": "Human",
+    "biography": "Tyris has a strong competitive spirit, which serves her well in jousting contests or other games. But she fears losing so much that she will sometimes act brashly in an effort to pull victory from defeat. So far, this risk-taking has worked for her, but some day her luck will run out.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Human Knight",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Verdish.gif",
+    "name": "Verdish",
+    "race": "Human",
+    "biography": "Verdish nearly perished when a dragon attacked her village. Fortunately, a great healer cured her injuries. Later, that dreadful experience prompted her to become a knight so she could learn to protect herself. Still, she is plagued by nightmares of that fateful day, and remains obsessively conscious of the scars beneath her armor.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Human Witch",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Bakrus.gif",
+    "name": "Bakrus",
+    "race": "Human",
+    "biography": "Bakrus was once a street corner con-man who preached that the end of the world was near while picking the pockets of those who stopped to listen. Who would have guessed he would be right?  The irony of the Reckoning was not lost on him, so he has dedicated his life to the priesthood.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Bloomberg.gif",
+    "name": "Bloomberg",
+    "race": "Human",
+    "biography": "A blow to the head as a child left Bloomberg with nightly visions, but he has not yet achieved the wisdom to understand them. Thus, he joined the clergy where his eccentric behavior is endured only because he has developed a small following who believe Bloomberg is in contact with a holy oracle.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Ingham.gif",
+    "name": "Ingham",
+    "race": "Human",
+    "biography": "Ingham maintained a modest monastery for most of his life, tending gardens and translating texts. He enjoyed the quiet life. But then the Reckoning destroyed everything, leaving him desperate to reclaim that peace even if it means going to war.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Human Cleric",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Jerwall.gif",
+    "name": "Jerwall",
+    "race": "Human",
+    "biography": "Jerwall was a missionary who attempted to convert the orcs to the way of good. Today, his dreams are tainted by the faces of those who feared the portals to this new world and stayed behind to die. Now, he continues his missionary work by trying to educate some of the most primitive creatures of this land.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Karth.gif",
+    "name": "Karth",
+    "race": "Human",
+    "biography": "Karth sees conspiracies everywhere and is too tactless to keep them to himself. Once, he foolishly accused Queen Catherine of being a spy. He was immediately transferred to a border town where his paranoia might do some good, but ever since the other clergy have tried to force him out of the priesthood.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Lemmar.gif",
+    "name": "Lemmar",
+    "race": "Human",
+    "biography": "Lemmar might be too attractive to be a priest, but he has more female followers than any other priest. Still, he believes strongly in duty and discipline, and is unwavering on issues of morality. He doesn't even notice the doe-eyed parishioners that attend his sermons.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Michael.gif",
+    "name": "Michael",
+    "race": "Human",
+    "biography": "Michael doesn't like to admit it, but he is entirely too ambitious for a priest. It isn't that he lusts for power, but he sees so much corruption and ineptness around him that he feels he has to step in and take control before the priesthood collapses.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Nevon.gif",
+    "name": "Nevon",
+    "race": "Human",
+    "biography": "Nevon looks too young to be a priest. Perhaps he is, but no one wants to get rid of such a dedicated healer. Helping others is Nevon's obsession, but this makes people nervous. How can someone truly be that selfless?",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Pirvian.gif",
+    "name": "Pirvian",
+    "race": "Human",
+    "biography": "Pirvian was born into wealth, but his happy childhood was marred by deep sorrow when his mother suddenly and unexpectedly died. He just wasn't a normal child after that. Ever since, Pirvian has searched for an answer to why she died, joining the priesthood to follow both a philosophical and biological path of study.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Proetho.gif",
+    "name": "Proetho",
+    "race": "Human",
+    "biography": "Some say Proetho is too loud and boisterous to be a priest. Not only that, he is entirely too gluttonous. He can be found at every feast - invited or not. But he is also a good man to have around, especially on the battlefield where he is a force to be reckoned with.",
+    "history": "The True Blade(Original Homm4 Life Campaign). He is one of the main figures and takes part in all 6 maps of that campaign: The Drawing of the Blade, The Trials, The First Step of Many, Seeking the Steel, The Rightful Heir. IF you solve the quest and gain him, otherwise he does not appear in any map.",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Rion.gif",
+    "name": "Rion",
+    "race": "Human",
+    "biography": "Few can stare into Rion's stern, unforgiving face and lie, so he became one of the heads of the priesthood where he oversaw the judgement of other priests who have been accused of crimes. His influence in the priesthood is strong, and any who oppose him find Rion a wily opponent.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Human Cleric",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Virgil.gif",
+    "name": "Virgil",
+    "race": "Human",
+    "biography": "Virgil has a fascination with books, especially ones on history, but he has always been too poor to afford them. So, Virgil joined the priesthood where he soon read everything in the local library. Now, he travels around searching for new acquisitions for the church.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Adelaide.gif",
+    "name": "Adelaide",
+    "race": "Human",
+    "biography": "Adelaide's love for the snowy landscapes of her homeland seems like a contradiction to the warmth of her personality. All who know her quickly become her friend, and all who come to her for advice know that she will give them her honest opinion.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Human Cleric",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Caitlin.gif",
+    "name": "Caitlin",
+    "race": "Human",
+    "biography": "Although committed to the priesthood, Caitlin is more interested in assisting the soldiers who are on the front lines of the battle against evil than long hours of study. She is an active woman who finds it difficult to sit and pray when she feels that military domination will ensure the victory of the forces of good.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Human Cleric",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Corita.gif",
+    "name": "Corita",
+    "race": "Human",
+    "biography": "Corita's confidence in her convictions can seem fanatical at times. She came from a region plagued by wars during her childhood and believes that the Universe is in a constant struggle between good and evil. In her eyes, one cannot go too far in the name of good.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Dorine.gif",
+    "name": "Dorine",
+    "race": "Human",
+    "biography": "An unlikely priest, bubbly Dorine spent most of her life in a traveling actor's troupe. At the time, she had to memorize the plays because, like many commoners, she was illiterate. Her fascination with the written word, however, compelled her to join the priesthood so she could learn to read and write.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Isabeau.gif",
+    "name": "Isabeau",
+    "race": "Human",
+    "biography": "Isabeau joined the priesthood to avoid a marriage she did not want. She soon became enamored with far-off lands, so she convinced her superiors to send her away as a missionary of their faith.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Kathleen.gif",
+    "name": "Kathleen",
+    "race": "Human",
+    "biography": "Although Kathleen came from a large, wealthy family, she always pitied those who weren't as fortunate as her. When she was a child, she gave away all her toys to poor children, and even stole food from the kitchen. As an adult, the priesthood seemed a logical choice.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Leslie.gif",
+    "name": "Leslie",
+    "race": "Human",
+    "biography": "Leslie spent years at the side of a powerful and wealthy duke as his scribe. Her employer kept her around because Leslie was a good judge of character who could point out untrustworthy people. She even saved his life once when she spotted two assassins simply by passing them in a hallway.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Maureen.gif",
+    "name": "Maureen",
+    "race": "Human",
+    "biography": "Maureen has only recently returned to the priesthood. For years, she questioned her faith after so many were killed (her family included) by the Reckoning. Her faith still isn't as firm as it used to be, but at least Maureen can help people while she is in the priesthood.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Mirlanda.gif",
+    "name": "Mirlanda",
+    "race": "Human",
+    "biography": "Although Mirlanda's past was dark and violent, she always had an interest in the philosophies of good. It wasn't until the Reckoning left her severely wounded that she had the opportunity to talk to a healer on even terms. Those months of recuperation convinced her that she needed to follow another path.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Human Witch",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Nanette.gif",
+    "name": "Nanette",
+    "race": "Human",
+    "biography": "Nanette made the worst mistake of her life when she let her parents talk her into joining the priesthood instead of marrying the man she loved. She has since lost contact with her love and fears that he was one of the victims of the Reckoning - although she hasn't given up hope yet.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Sanya.gif",
+    "name": "Sanya",
+    "race": "Human",
+    "biography": "Sanya excels in her studies - always has. She is most comfortable sitting next to a fire with a book in her hand, but if a task is set before her she confronts it without hesitation. When it comes to dealing with others, Sanya often comes off as arrogant due to her vast intellect.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Vallia.gif",
+    "name": "Vallia",
+    "race": "Human",
+    "biography": "On two separate occasions, Vallia's superiors have demoted her for actions that have endangered the lives of innocents. Vallia never means any harm, but when she's battling evil (her quest in life), she becomes so focused on the enemy that she forgets everyone else.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Winifred.gif",
+    "name": "Winifred",
+    "race": "Human",
+    "biography": "Winifred is sort of a homebody. Before the Reckoning, she was satisfied to remain in church all day doing chores. But the times have changed. Now, there is a shortage of priests and she has been forced to step out into the world to find those in need.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Bofmog.gif",
+    "name": "Bofmog",
+    "race": "Ogre",
+    "biography": "Bofmog was Kilgor's personal executioner. On those few occasions when Kilgor didn't do the deed himself, he turned it over to silent, thoughtful Bofmog. Unknown to the mad king, however, Bofmog decided for himself who deserved to die. For those that didn't, he arranged an escape.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Bron.gif",
+    "name": "Bron",
+    "race": "Human",
+    "biography": "Bron was once a swamp fighter for Tatalia, but war and the Reckoning obliterated his people. Now, this rugged man has fought his way into the Barbarian clans, where he has found their sense of community comforting and worth preserving.",
+    "history": "Since Restoration of Ertahia (Homm3 All parts) Human Beastmaster",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Crag%20Hack.gif",
+    "name": "Crag Hack",
+    "race": "Human",
+    "biography": "Crag Hack will forever remain an opportunist, fighting for pleasure and profit instead of foolish intangibles like ideals or beliefs. Even his narrow escape from the destruction of the old world has failed to give him a more profound outlook on life.",
+    "history": "Since Strategic Quest (Homm1), Succession Wars (Homm2 + PoL) and Restoration of Erathia (Homm3 All Parts) Human Barbarian",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Dogwoggle.gif",
+    "name": "Dogwoggle",
+    "race": "Human",
+    "biography": "Dogwoggle is a hapless hero who has a way of getting into trouble. He often brags about his abilities (which are questionable) and exhibits unflagging confidence no matter how often he fails. However, with his mindless persistence, he always manages to stumble out of trouble and come out on top.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Ferret.gif",
+    "name": "Ferret",
+    "race": "Human",
+    "biography": "The day Ferret became a warrior, he chose a sleek, devious rodent as his namesake because it fit his personality best. Even to this day, those that don't know him make the mistake of challenging him to single combat. They soon learn why people say, \"This Ferret has long teeth!\"",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Hagnar.gif",
+    "name": "Hagnar",
+    "race": "Human",
+    "biography": "Hagnar is a veteran of more wars than he can count. He hasn't always been proud of his victories, but he has always acted honorably even when his fellow Barbarians have not. He still fights to protect his people even though he has reached the age when most men put down the sword.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Khorrun.gif",
+    "name": "Khorrun",
+    "race": "Ogre",
+    "biography": "Khorrun's small, nomadic tribe dwelled in a harsh desert far from civilization. Nonetheless, bandits slaughtered his entire tribe while he was away gathering water. Now, he wanders the world alone. Like his people, Khorrun is quick to anger, slow to forgive, and intensely loyal to those that win his respect.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Krellion.gif",
+    "name": "Krellion",
+    "race": "Ogre",
+    "biography": "rellion was originally a wrestler, but he gave it up to lead men into battle because there simply wasn't any challenge in bloodless combat anymore. Sometimes, he longs for the glory days when King Kilgor and the Barbarian armies swept over the land - dominating all who came before him.",
+    "history": "Since Restoration of Ertahia (Homm3 All parts) Ogre Barbarian",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Tazar.gif",
+    "name": "Tazar",
+    "race": "Human",
+    "biography": "Tazar is a clanless outsider who wanders from clan to clan doing odd jobs for a meal and lodging. Sometimes, he is able to hire out his strong sword arm as well. This is the life he has become accustomed to, although in private he longs to be accepted by one of the tribes.",
+    "history": "Since Restoration of Ertahia (Homm3 All parts) Human Beastmaster",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Trome.gif",
+    "name": "Trome",
+    "race": "Human",
+    "biography": "Trome spent five years as a swamp lizard as a result of a wizard's punishment, or so he claims. The experience left this eccentric man with a deep understanding and love of reptiles, as well as a weak hold on his sanity.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Wegg.gif",
+    "name": "Wegg",
+    "race": "Human",
+    "biography": "There are few Barbarians as skilled in warfare as Wegg. He can proudly tell you how he got each of his numerous scars and how he took revenge on the one who gave it to him. His bravado aside, one can't survive so many injuries without being a tremendous warrior.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Wolfric.gif",
+    "name": "Wolfric",
+    "race": "Human",
+    "biography": "Good-natured Wolfric is someone to have around when spirits are down. He is vibrant, funny, and capable of telling a story better than any bard. In the moments before a battle, his jokes and taunts calm the nerves of inexperienced warriors, as well as rile the tempers of the enemy.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Yog.gif",
+    "name": "Yog",
+    "race": "Half-Genie",
+    "biography": "Yog is a living contradiction. He may have the blue skin of his genie mother, but he has the battle fury and strength of his Barbarian father. At one time, he considered following his mother's path and embracing a life of magic, but his passion for warfare proved stronger.",
+    "history": "Since Strategic Quest (Homm1) and Restoration of Erathia (Homm3 All Parts) Half-Genie Barbarian (SoD - Half-Genie Wizard)",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Abegga.gif",
+    "name": "Abegga",
+    "race": "Ogre",
+    "biography": "Abegga was the leader of her tribe and a mother of eight when King Kilgor called for her people to join his army. For her people's sake, Abegga refused and marched them into the wilderness, where they were hunted and killed like common criminals until the Reckoning provided a means of escape.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Colwa.gif",
+    "name": "Colwa",
+    "race": "Human",
+    "biography": "Colwa dreams of a day when her people will be at peace with the other races. That's why she often volunteers to be an envoy to foreign nations. Normally, someone so outspoken against war would be banished from Barbarian society, but Colwa also happens to be an excellent warrior.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Drenka.gif",
+    "name": "Drenka",
+    "race": "Ogre",
+    "biography": "Ogres usually rely on traps or ambushes when hunting, but Drenka has been known to track her prey for days before finally catching it unaware and killing it with her bare hands. No one quite knows where she picked up these skills, but she's an invaluable addition to her clan.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Jadne.gif",
+    "name": "Jadne",
+    "race": "Human",
+    "biography": "Fiery-tempered Jadne is clanless because her father refuses to acknowledge her as his daughter. Such a harsh life has made her a strong fighter at a young age. Most people can't hold her gaze for long, for it reminds them of a certain famous Barbarian who loves to hack people apart.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Lanya.gif",
+    "name": "Lanya",
+    "race": "Human",
+    "biography": "Long-limbed Lanya is able to run farther and faster than anyone she knows. Due to her incredible endurance, she was recruited as a war messenger. Because it is dangerous for a girl running alone from one battlefield to another, however, Lanya learned to fight as well.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Kel.gif",
+    "name": "Kel",
+    "race": "Human",
+    "biography": "As soon as Kel came of age, her people married her to their War God in a spectacular and bloody ceremony. Now, it is said that each time she is victorious over an enemy, she will take their power until the day that she, too, becomes a goddess and joins her husband.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Nef.gif",
+    "name": "Nef",
+    "race": "Human",
+    "biography": "Because most of her tribe perished in the Reckoning, Nef's people joined with another clan to survive. Through no choice of her own, Nef is now married to a man she doesn't know. Thankfully, he's a warrior who has no time for frivolous things such as love, and is rarely home.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Oroon.gif",
+    "name": "Oroon",
+    "race": "Human",
+    "biography": "Oroon is a real scrapper who will simply toss aside a broken weapon and fight with her teeth and bare hands, never once thinking about surrender. She may not be a large woman (in fact, she's quite small) but she wins fights through sheer tenacity.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Ranella.gif",
+    "name": "Ranella",
+    "race": "Human",
+    "biography": "Sinewy Ranella is far stronger than she appears. She has bested many men in feats of strength and endurance, taking great pleasure in these victories. These days, however, she has become more of a mercenary and won't even accept a challenge unless there is a wager attached to it.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Shiva.gif",
+    "name": "Shiva",
+    "race": "Human",
+    "biography": "Beautiful Shiva should have been her clan's religious leader, but her family was killed during the Reckoning while attempting to save some sacred animals. Despairing over the futility of all her ceremonies and sacrifices, Shiva abandoned the gods and took up a sword instead.",
+    "history": "Since Restoration of Ertahia (Homm3 All parts) Human Barbarian",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Toadeater.gif",
+    "name": "Toadeater",
+    "race": "Ogre",
+    "biography": "Toadeater is an industrious ogre skilled in hunting, skinning, and even tailoring crude clothing. She is also highly superstitious. On days when the omens are good, she will plunge into battle without any concern for her safety. But when the omens are bad, she won't even get out of bed.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Vix.gif",
+    "name": "Vix",
+    "race": "Human",
+    "biography": "Vix is capable of defeating opponents twice her size due to her uncanny reflexes, running and dodging as quick as a deer being chased by a cougar. Now that she has embarked on a life of adventure, she seeks the thrill that comes from risking her life in every way possible.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Yutena.gif",
+    "name": "Yutena",
+    "race": "Human",
+    "biography": "Yutena was one of Kilgor's youngest wives, and he favored her by sparring with her daily, giving her many scars. Although she realizes he brought about the destruction of the world, Yutena still holds a soft spot for him and believes there will be no greater king. Her only regret is that she never had Kilgor's child.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/anium.gif",
+    "name": "Anium",
+    "race": "Elf",
+    "biography": "At this age, Elder Counselor Anium's duties should be limited to giving strategic advice. Since the Reckoning, however, this charismatic old elf has come out of retirement to help his people and fulfill his longing for one last glorious adventure.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/blackdog.gif",
+    "name": "Blackdog",
+    "race": "Elf",
+    "biography": "An elf with many shady dealings in his past, Blackdog is sometimes shunned by his own people. Nonetheless, he is loyal to his friends. He has traveled extensively over the years and made many interesting friends from all walks of life.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/callis.gif",
+    "name": "Callis",
+    "race": "Human",
+    "biography": "Callis is a cold and emotionally distant man, a trait that serves him well when on the hunt. While his tendency to rudely point out the faults of others keeps him from gaining any close friends, Callis is still highly respected for his archery skills.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/erensar.gif",
+    "name": "Erensar",
+    "race": "Elf",
+    "biography": "Erensar trained with and fought beside the famed elven hero Gelu, but never received any notoriety even though he felt he was a better archer. Now that Erensar is out from Gelu's shadow, it is his turn to shine.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/fahtrim.gif",
+    "name": "Fahtrim",
+    "race": "Human",
+    "biography": "Fahtrim fled Erathia in a hurry and spent several years wandering before he came to settle among the elves. During the Reckoning, he revealed his bold selflessness by staying behind until the last possible moment to help others through the portals, a surprisingly valiant act from someone accused of murder.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/gillion.gif",
+    "name": "Gillion",
+    "race": "Human",
+    "biography": "A renegade who has been both an enemy and a hero to the elves, Gillion always considered his chances for profit before he took any action. Recently, he had a change of heart and takes his role as a defender of nature quite seriously.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/ignatius.gif",
+    "name": "Ignatius",
+    "race": "Human",
+    "biography": "Ignatius once served the Kreegan demons for the opportunity to vent his legendary rage. After the Reckoning, he was nursed back to health by powerful elven healers. They also cured his fury, explaining that it was a result of a curse placed on his mother before his birth.",
+    "history": "Since Restoration of Ertahia (Homm3 All parts) Human Demoniac",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/ivor.gif",
+    "name": "Ivor",
+    "race": "Elf",
+    "biography": "Ivor proudly traces his lineage back to the Silence. Though born into elven nobility, he remains an archer - one of the best - who fights for the greater glory of his race (and himself, of course). Regrettably, the destruction of AvLee and the loss of his wealth hasn't quelled his arrogance.",
+    "history": "Since Restoration of Ertahia (Homm3 All parts) Elven Ranger",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/kyrre.gif",
+    "name": "Kyrre",
+    "race": "Elf",
+    "biography": "Kyrre volunteers for every scouting mission, often vanishing from camp for days at a time to watch the borders. He is drawn to the solitude of the wilderness where he can study the plants and animals and bask in the peaceful silence.",
+    "history": "Since Restoration of Ertahia (Homm3 All parts) Elven Ranger",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/merlith.gif",
+    "name": "Merlith",
+    "race": "Human",
+    "biography": "When Merlith was just a boy, his village fell victim to a battle between the Forest Guard and an army of undead. Fortunately, one of the elven soldiers discovered him with his slain parents. That soldier adopted the human boy, teaching him to be an excellent archer.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/ryland.gif",
+    "name": "Ryland",
+    "race": "Human",
+    "biography": "A veteran of countless military campaigns, Ryland was the first (and to date, the only) human ever accepted by the Elder Council to be a commander of the Forest Guard. Some of his men joke that Ryland was really an elf who died and was accidentally reincarnated as a human.",
+    "history": "Since Restoration of Ertahia (Homm3 All parts) Human Ranger",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/theritos.gif",
+    "name": "Theritos",
+    "race": "Human",
+    "biography": "Theritos may be a braggart, but he backs up his swagger with his fierce fighting skills. He will taunt an opponent endlessly, even during battle, raising their ire until they make a fatal mistake - and then take advantage of them. Too bad his arrogance often makes his allies want to kill him too.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/avanine.gif",
+    "name": "Avanine",
+    "race": "Elf",
+    "biography": "Avanine has always been a bit of a tomboy. As a child, she loved to play war with the elven boys, and adulthood hasn't changed her much. To this day, she still gets a child-like pleasure from climbing trees and outsmarting her enemy.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/enathrae.gif",
+    "name": "Enathrae",
+    "race": "Human",
+    "biography": "Enathrae's parents hoped their daughter would marry some day and become a proper lady, but she had other plans. She was drawn to the elven forests by stories from her childhood and fell in love with her adventurous life in the wilderness.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/gwedmyr.gif",
+    "name": "Gwedmyr",
+    "race": "Human",
+    "biography": "Gwedmyr spent most of her life as a slave in Nighon's deadly tunnels. She escaped her cruel masters during the Reckoning and has since sworn to fight anyone who enslaves another. Whenever she finds a cave, she feels compelled to search it for the enemy.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/ilia.gif",
+    "name": "Ilia",
+    "race": "Elf",
+    "biography": "Ilia tends to empathize with both sides of a dispute, for one is never completely wrong as far as she is concerned. This makes her a good arbitrator of disagreements, but since Ilia never wholeheartedly condemns her enemies, some fear she is also capable of switching sides at any moment.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/jenova.gif",
+    "name": "Jenova",
+    "race": "Elf",
+    "biography": "Jenova is well-loved and respected among the elves, the envy of most women and the object of desire of most men. But Jenova ignores her admirers to concentrate on a search for something that has been missing from her life. Unfortunately, she doesn't know what that something is.",
+    "history": "Since Restoration of Ertahia (Homm3 All parts) Elven Ranger",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/kamiana.gif",
+    "name": "Kamiana",
+    "race": "Human",
+    "biography": "Kamiana, being the youngest of six children, grew up knowing how to shoot a bow and swing a sword. Like all her siblings before her, she patriotically volunteered to become an archer - not that she had any interest in doing anything else.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/lindette.gif",
+    "name": "Lindette",
+    "race": "Human",
+    "biography": "Lindette is a 'mug-is-half-empty' kind of person, always anticipating the worst possible outcome. But her fellow archers put up with her depressing outlook on life, for when disaster does strike she is always ready.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/mephala.gif",
+    "name": "Mephala",
+    "race": "Elf",
+    "biography": "No matter how many wars Mephala fought, there was always a new one waiting around the corner. Her heart was no longer in it. And then came the Reckoning. Today, she still fights to protect her people, but she also searches for a way to rekindle the passion of her youth.",
+    "history": "Since Restoration of Ertahia (Homm3 All parts) Elven Ranger",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/neska.gif",
+    "name": "Neska",
+    "race": "Human",
+    "biography": "Neska spent years as a crossbowman in the Erathian military disguised as a young man because peasant women were not permitted to enter the service. A near fatal injury brought her into the care of an elven healer who discovered her secret and offered her an opportunity to serve in the elven Forest Guard, where she could openly fight for the common good.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/pyral.gif",
+    "name": "Pyral",
+    "race": "Elf",
+    "biography": "Pyral took up archery for sport at first. She had such uncanny accuracy with the longbow that her people practically forced her to become an archer. The day she killed her first enemy, however, she ceased shooting for the pleasure of it.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/shyn.gif",
+    "name": "Shyn",
+    "race": "Human",
+    "biography": "Shyn was a 'wild-girl' raised in the wilderness without human contact until an elven ranger discovered her. He taught her how to speak, how to use the bow, and how to live among others, but this awkward girl still feels most comfortable around the animals of the forest.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/snowjay.gif",
+    "name": "Snowjay",
+    "race": "Half-Elf",
+    "biography": "Snowjay is the only child of a famous human knight and the elven princess he loved more than life itself. Numerous songs have been written about their tragic deaths, constantly reminding Snowjay of her loss. Now, she just longs to protect her people in their time of need while remaining as anonymous as possible.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/trinni.gif",
+    "name": "Trinni",
+    "race": "Human",
+    "biography": "Keen-eyed and fearless, Trinni used to spy on the enemy before she was old enough to pick up her first bow. She would count troop numbers and types from a vast distance, relaying the information to her elders. Now that she's old enough to fight, she's ready to prove her combat skills as well.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Aeris.gif",
+    "name": "Aeris",
+    "race": "Elf",
+    "biography": "Aeris is an excellent animal handler and one of the few elves who will admit that he likes this new world better than the last. For him, there is no better feeling than exploring the wild, untouched land and going where no one has tread before.",
+    "history": "Since Restoration of Ertahia (Homm3 All parts) Elven Druid",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Braebar.gif",
+    "name": "Braebar",
+    "race": "Human",
+    "biography": "Braebar is part of a growing number of druids who believe they shouldn't sit around waiting for others to attack. Defending your home is fine, but that only attracts others with less morals to attack you. Instead, he thinks the elven nation should strike first and hardest.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Brook.gif",
+    "name": "Brook",
+    "race": "Elf",
+    "biography": "Brook is an artist who manipulates nature itself to create works of beauty. But he usually makes his pieces somewhere off the beaten path where they are rarely discovered. He's a humble druid who always seems distracted by some inner thought.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Coronius.gif",
+    "name": "Coronius",
+    "race": "Human",
+    "biography": "Coronius searched a long time for a form of magic that fit his impulsive style. Although wise and thoughtful, he believes that, like the animals, people were meant to rely more on intuition and instinct to survive and wonders if this is not the way to a perfect society.",
+    "history": "Since Restoration of Ertahia (Homm3 All parts) Human Druid",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Derden.gif",
+    "name": "Derden",
+    "race": "Human",
+    "biography": "Derden began his career as a monk, but then he noticed that all things seemed connected in the natural world. This appealed to him. His transition from monk to druid was so gradual, however, that he cannot recall the day he became a man of the woods.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Elleshar.gif",
+    "name": "Elleshar",
+    "race": "Human",
+    "biography": "Elleshar is a rugged woodsman who seldom jokes. He believes in hard work and self reliance, and considers his duty to protect the natural world paramount to everything. So, he has committed himself to what he calls 'the endless battle against those who would spoil the natural order'.",
+    "history": "Since Restoration of Ertahia (Homm3 All parts) Human Druid",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Farnivon.gif",
+    "name": "Farnivon",
+    "race": "Elf",
+    "biography": "Whenever a liaison with sprites is needed, carefree Farnivon is called because few people have the patience to put up with their practical jokes. For those who know Farnivon best, they have noticed that he is becoming more and more like the creatures he loves with each passing day.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Gathran.gif",
+    "name": "Gathran",
+    "race": "Elf",
+    "biography": "Nature is both beautiful and cruel. That is a druid's first lesson. For Gathran, it became his motto. He sees glory in a forest fire, or in that split second when a hawk crushes a mouse in its talons. That, is life!",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Gue.gif",
+    "name": "Gue",
+    "race": "Human",
+    "biography": "Gue is a serene, intelligent man - the kind others come to for advice. So many have come to him over the years, in fact, that he has started composing a book of his ideals, including suggestions for how to live a happy life.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Iscandel.gif",
+    "name": "Iscandel",
+    "race": "Elf",
+    "biography": "Iscandel is an ambitious young druid with dreams of becoming the youngest member of the druid ruling council. He feels it is his calling, and everything that he does is in preparation for the day when he will sit highest among the other leaders and guide his people to glory.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Kaliki.gif",
+    "name": "Kaliki",
+    "race": "Elf",
+    "biography": "Kaliki is a hunter and druid toughened by the harsh, frozen environment of his native land. He despises any form of weakness. Where he comes from, weakness means death, and for that reason Kaliki rarely depends on others. A loner he may be, but you'll never have a stronger ally.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Lowell.gif",
+    "name": "Lowell",
+    "race": "Human",
+    "biography": "Lowell is highly respected for his vast intellect, but the cost of this wisdom is his obsessive desire to be left alone with his studies. Like a hermit, he spends weeks at a time in the woods hunting for knowledge instead of food. According to Lowell, there is no higher pursuit.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Yesterfox.gif",
+    "name": "Yesterfox",
+    "race": "Elf",
+    "biography": "This private elf sometimes works as a spy because intrigue and lies come naturally to Yesterfox. Fortunately, his efforts are for the benefit of his people alone. He rarely stays anywhere for long, and never attracts attention to himself, choosing instead to be like a subtle breeze in the forest - quiet and unnoticed.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Aleta.gif",
+    "name": "Aleta",
+    "race": "Human",
+    "biography": "Aleta was blind from birth, so she learned to adapt to the darkness and revel in the sounds and smells of the forest. One day, a druid discovered her blindness was the trick of a cruel fairy and cured her. Aleta was so grateful she became a druid too, but she still listens to the wilderness with her eyes closed.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Arebell.gif",
+    "name": "Arebell",
+    "race": "Elf",
+    "biography": "Arebell is fascinated by foreign people and cultures, so she travels endlessly to satisfy her interest in their different customs. This nomadic lifestyle has left her with no place to call home and few friends, so the Reckoning really didn't change Arebell's life much.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Eleece.gif",
+    "name": "Eleece",
+    "race": "Human",
+    "biography": "Becoming a druid was an obvious life choice for Eleece, who is more at home in her garden than anywhere else. She can get just about anything to grow and is legendary for the beauty of her roses.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Gem.gif",
+    "name": "Gem",
+    "race": "Human",
+    "biography": "Even though Gem was at the center of over eighty years of wars and conflicts, she remained young and beautiful thanks to the waters of a special fountain. With the destruction of the old world, she no longer has access to those magical waters and is beginning to age normally again - something she desperately wants to avoid.",
+    "history": "Since Strategic Quest (Homm1), Succession Wars (Homm2 + PoL) Human Sorceress and Restoration of Erathia (Homm3 + AB) Human Druid (SoD - Human Sorceress, later - Druid)",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Labetha.gif",
+    "name": "Labetha",
+    "race": "Human",
+    "biography": "Labetha is an earthy, straightforward woman. Although she spent some time away from elven society fighting in foreign wars, she has returned to the people who raised her to help them recover from the tragedy of the Reckoning.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Melodia.gif",
+    "name": "Melodia",
+    "race": "Elf",
+    "biography": "Melodia's emotions can be as flighty as a sprite's. In fact, she falls in and out of love so quickly that she has left dozens of heartbroken men behind pining for her attention. She doesn't mean to hurt them though. She would continue to love them if she could, but she just wasn't born that way.",
+    "history": "Since Restoration of Ertahia (Homm3 All parts) Elven Druid",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Oris.gif",
+    "name": "Oris",
+    "race": "Human",
+    "biography": "Oris's tribe was destroyed by her own king, Kilgor, shortly before the Reckoning. Turning her back on the mindless cruelty of the Barbarian people, this brave woman embarked on a personal quest to find a greater meaning in the world, and she thinks she has found it in the study of Nature.",
+    "history": "Since Restoration of Ertahia (Homm3 All parts) Human Barbarian",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Regina.gif",
+    "name": "Regina",
+    "race": "Human",
+    "biography": "Regina's father perished in the Reckoning while saving his children. Deeply distraught over this loss, Regina spent many years in mourning. Then one of her older sisters encouraged her to make their father proud by becoming the best druid in the elven nation.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Saleena.gif",
+    "name": "Saleena",
+    "race": "Human",
+    "biography": "Saleena spent much of her life taming horses and other animals as mounts, but when she became a druid she realized that she was destroying something beautiful by suppressing the independence of those wild creatures. Today, she focuses on setting all caged animals free.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Sannah.gif",
+    "name": "Sannah",
+    "race": "Human",
+    "biography": "Many who have traveled with Sannah claim she is a pleasure to be around. In a few short minutes, she makes you feel better about yourself. Apparently, her charm is an unconscious trait, because she is always surprised when someone falls in love with her - and saddened because she has never been in love herself.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Tonwen.gif",
+    "name": "Tonwen",
+    "race": "Elf",
+    "biography": "Tonwen was brought up in a sacred place by fanatical parents who believed she would one day bring peace to the world. During the Reckoning, it became clear to them that she wasn't a holy child, so her parents abandoned her. Tonwen survived, and today she loves being just a normal woman.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Vianne.gif",
+    "name": "Vianne",
+    "race": "Human",
+    "biography": "Vianne refuses to talk about herself or anything from her past, and she gets upset if anyone asks. Despite her secretive nature, she is a talented druid who works well with others. She dreams of becoming an instructor one day and teaching young druids how to control their magic.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Alem.gif",
+    "name": "Alem",
+    "race": "Genie",
+    "biography": "Alem is a stranger in this time, having just recently been released from the bottle that was his silent prison for ten thousand years. He's still attempting to adjust to this new world with all its strange cultures. Those who know him find him old-fashioned and sometimes naive.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Davius.gif",
+    "name": "Davius",
+    "race": "Human",
+    "biography": "Even though his father was of noble blood, some farmers had more gold to rub together. Davius knows what it's like to be poor. He didn't like it. Miserly, thrifty, cheap - call him what you will. Many don't realize that his efforts to save money only improves the economy in the long run.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Fafner.gif",
+    "name": "Fafner",
+    "race": "Genie",
+    "biography": "Fafner is not a true genie, but a scholar who wished for a genie's immortality and was instantly changed. He remains among humans since he is not easily accepted among genies. Over the years, he has accumulated enough wealth to buy his way into high society.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Genie Alchemist",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Grum.gif",
+    "name": "Grum",
+    "race": "Dwarf",
+    "biography": "Grum first earned his notoriety as a mine foreman who was willing to go anywhere for a new find. His miners dug deeper and faster than anyone because they respected their boss. After the Reckoning, Grum reluctantly accepted a position of honor as a lord since his people desperately needed good leaders.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Jubal.gif",
+    "name": "Jubal",
+    "race": "Genie",
+    "biography": "Jubal's thunderous voice can be heard over the loudest battle or noisiest feast - two places where he's equally comfortable. Just about his only known weakness is his sense of hospitality. Jubal can't stand being accused of being crude or stingy, so he goes out of his way to prove the opposite.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Merrox.gif",
+    "name": "Merrox",
+    "race": "Dwarf",
+    "biography": "Almost everyone has heard of the dwarf, Merrox. He's a living legend with at least a dozen songs written about his treasure hunting. Merrox feeds on his fame, so he is constantly seeking out new challenges just to keep his name on everyone's lips.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Nobblenot.gif",
+    "name": "Nobblenot",
+    "race": "Halfling",
+    "biography": "Nobblenot has been without want all his life, but managing the family fleet of riverboats just doesn't excite him. So, he turned to a life of adventure hoping to discover a meaning to his existence. That is, at least until the day when his father retires and he's forced to accept his inheritance.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Oaryn.gif",
+    "name": "Oaryn",
+    "race": "Halfling",
+    "biography": "Oaryn used to have a zest for life not commonly found in anyone, even halflings, but the Reckoning turned him introspective. Now, Oaryn dispenses his pessimistic gems of wisdom to any who will listen, and to some who won't.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Paulus.gif",
+    "name": "Paulus",
+    "race": "Human",
+    "biography": "Paulus is an aging bachelor with numerous possible suitors and a scandalous reputation. No woman has yet been able to tame him, or even keep his interest long enough to draw him away from his life of adventure.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Piquedram.gif",
+    "name": "Piquedram",
+    "race": "Human",
+    "biography": "Piquedram abandoned an unsuccessful career in alchemy to manage his considerable estate, and then the world blew up. He lost everything, which is why he's grumpy all the time. He's too old to be starting over and too fat to start adventuring, but what choice does he have?",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Human Alchemist",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Ufretin.gif",
+    "name": "Ufretin",
+    "race": "Dwarf",
+    "biography": "Ufretin was key in convincing the dwarves to leave the leadership of the haughty and chaotic elves and seek a more organized life. Now that he is getting on in years, Ufretin has taken up the role of spokesman for his people although he probably hasn't given up adventuring yet. There's a lot of gold to be found out there.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Dwarf Ranger",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Verno.gif",
+    "name": "Verno",
+    "race": "Halfling",
+    "biography": "Verno is often found in a tavern chatting it up with the locals. He seems to be a friend to all, but this halfling is really just keeping his keen ears open for interesting business information. A good thing, too, since much of his wealth has been gained because he knew when to raise pigs, or stockpile sulfur, or buy shares in ore mines.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Annavanta.gif",
+    "name": "Annavanta",
+    "race": "Human",
+    "biography": "Annavanta's family claims more than a thousand years of noble blood, so her entire life has been guided by the expectations of tradition. Since there have been kings and queens in her family tree, she believes it is her destiny to one day wear a crown and rekindle the glory of her bloodline.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Aycora.gif",
+    "name": "Aycora",
+    "race": "Halfling",
+    "biography": "Aycora spent much of her life in Erathia using her riches to support jousting champions. She never missed a tournament. In these dangerous times when people so rarely think about entertainment, Aycora has funded several tournaments herself in an effort to bring back the pastime she loves so much.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Danika.gif",
+    "name": "Danika",
+    "race": "Human",
+    "biography": "They call her Danika the Unfortunate because the forces of the universe seem to be conspiring to make her life difficult. Although these misfortunes never happen to her directly, outrageous sequences of bad luck happen around her - which is why the superstitious stay far away.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Fynelda.gif",
+    "name": "Fynelda",
+    "race": "Dwarf",
+    "biography": "Everyone loves Fynelda. As a leader, she has earned the loyalty and respect of her subordinates. As a person, she believes life is to be lived to the fullest. But in private, Fynelda is afraid that she will soon fall to a family curse that has claimed the lives of many of her ancestors at a very early age.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Hally.gif",
+    "name": "Hally",
+    "race": "Halfling",
+    "biography": "Hally is a wealthy adventurer. If no one has stepped foot into a certain dark cave, she feels compelled to go there. She's oblivious to the danger she puts herself in, which makes her troops nervous. But so far Hally's quick wit allows her to escape even the most hazardous situations.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Hedegraus.gif",
+    "name": "Hedegraus",
+    "race": "Dwarf",
+    "biography": "Hedegraus was chosen as treasurer for a dwarven vault since she was above reproach. No one could bribe her because she was already filthy rich, and there was no threat of embezzlement because Hedegraus always follows every rule by the book.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Iona.gif",
+    "name": "Iona",
+    "race": "Genie",
+    "biography": "Iona has been a leader among the genies for centuries due to her vast knowledge of politics and intrigue. Despite her charming personality, few would call her a friend because they never know for sure how she feels in return. Instead, people either respect her intelligence or fear her power.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Genie Alchemist",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Neela.gif",
+    "name": "Neela",
+    "race": "Genie",
+    "biography": "Neela believes nothing is a substitute for intense training. She spends hours a day exercising her body, and, at night, she studies books to exercise her mind. She expects the same commitment from her people as well, but most cannot live up to her example.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Genie Alchemist",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Petula.gif",
+    "name": "Petula",
+    "race": "Halfling",
+    "biography": "Petula lost her property in the wars before the Reckoning. She led her servants into the wilderness where she went into hiding. Later, she funded a small rebellion with gold from secret coffers, battling her enemy in the only way she knew how.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Rissa.gif",
+    "name": "Rissa",
+    "race": "Human",
+    "biography": "According to Rissa, the problem with people is they're lazy. They don't want to get up in the morning and work all day, so you have to give them a reason to do what they should be doing all along. That's why the world has nobles - to motivate the lazy ones to do their jobs.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Segwen.gif",
+    "name": "Segwen",
+    "race": "Dwarf",
+    "biography": "Segwen is the only child of a dwarven lord, so she tried to live up to everything that is expected of a daughter as well as a son. She learned to manage an extensive household and even studied the history of dwarven warfare, all to please the father who died in the Reckoning.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Sharah.gif",
+    "name": "Sharah",
+    "race": "Genie",
+    "biography": "Sharah fell in love with a human wizard once. She lived a happy life with the man, but since she is an immortal genie, she watched her beloved grow old and pass away. Now, this somber genie tries to carry on with nothing left but her memories and a wish that she too had been mortal.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Aenain.gif",
+    "name": "Aenain",
+    "race": "Genie",
+    "biography": "Aenain is not as strong, quick, or talented as other genies. Even his vision isn't as acute. But he has overcome his imperfections through ceaseless tenacity and a strong desire to prove his worth, both to himself and to the rest of his kind.",
+    "history": "Since Armageddon's Blade (Homm3, SoD+AB) Genie Elementalist",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Astral.gif",
+    "name": "Astral",
+    "race": "Human",
+    "biography": "Some say a mischievous creature lives inside Astral's turban, enhancing the old man's magical powers. Even Astral is unwilling to confirm or deny the rumor, but then some also say that this tricky elder probably started the rumor just to shake things up.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Human Wizard",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Brendemar.gif",
+    "name": "Brendemar",
+    "race": "Dwarf",
+    "biography": "Brendemar was struck with an illness during childhood that left his lungs weak. He grew up smaller than most dwarves and without the endurance to become a warrior, but he still longed for adventure. So, he turned to magic instead and quickly achieved the excitement he craved.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Grindan.gif",
+    "name": "Grindan",
+    "race": "Dwarf",
+    "biography": "Like many dwarves, Grindan began his adulthood as a miner. Unfortunately, he wasn't good at it. He tried several careers after that, failing at them all. Just when it looked like he would be a simple laborer all his life, he discovered a talent for magic.",
+    "history": "Since Armageddon's Blade (Homm3, SoD+AB) Dwarf Elementalist",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Gurvilin.gif",
+    "name": "Gurvilin",
+    "race": "Halfling",
+    "biography": "Gurvilin fought in the Succession Wars and was instrumental in gaining the freedom of his entire village. His career did not end there, however. Soon, Gurvilin set out into other lands, protecting halfling communities from the dangers of a big person's world.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Malcom.gif",
+    "name": "Malcom",
+    "race": "Halfling",
+    "biography": "Malcom's magical talent was discovered at an early age, so he never worked the mines or forges that are such a part of dwarven life. Instead, he practiced his magical skills each day to become the best mage he could, but sadly this has made him an outsider to his own people.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Dwarf Druid",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Mudgeon.gif",
+    "name": "Mudgeon",
+    "race": "Halfling",
+    "biography": "Mudgeon fights the inner desire to create mischief by exercising great control over his daily actions. Before he goes to bed each night, he plans every minute of the next day, and when something doesn't go as predicted, he gets quite upset at whoever is responsible - even if it is his own fault.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Olivaster.gif",
+    "name": "Olivaster",
+    "race": "Halfling",
+    "biography": "Olivaster is a small man with a big name, and bigger dreams. Olivaster may not even be his real name. No one knows this mysterious halfling's true origins, only that what motivates his actions is his dream to one day create and run his own guild of magic.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Qubar.gif",
+    "name": "Qubar",
+    "race": "Genie",
+    "biography": "Qubar has the tendency to fall in love at the drop of a hat. He is an excellent mage, but he spends so much of his time chasing women and making a fool of himself that he receives little respect from his peers - or genies for that matter.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Raven.gif",
+    "name": "Raven",
+    "race": "Human",
+    "biography": "Raven retired early from his position as Royal Sage to enjoy a quiet life as a hermit. Then the Reckoning came. Now homeless and penniless, he has returned to hiring out his swift, logical mind (few can match his brilliance) to the rulers of this new land.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/SylasZanj.gif",
+    "name": "Sylas Zanj",
+    "race": "Human",
+    "biography": "Born a common tailor, Sylas woke one morning with the complete memory of his previous life as a powerful mage named Zanj. Now, he believes he has returned at a time when the world needs a protector, and Sylas Zanj is just the man to answer the call.",
+    "history": "New",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Solymr.gif",
+    "name": "Solymr (Solmyr)",
+    "race": "Genie",
+    "biography": "Solymr ibn Wali Barad is legendary among the genies for his strong sense of honor and duty. He believes so strongly in keeping his word that for centuries he served the Immortal King, Gavin Magnus, after a hasty promise. Solymr has seen the distant past and the destruction of an entire world, and he hopes to live long enough to witness the end of time as well.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Genie Wizard\n\tPart in: Price of Peace (Original Homm4 Order Campaign). He is the main figure and takes part in 5 maps of that campaign: The Servant, The Rainbow Crystal, Slave of Fear, To Slay an Immortal, The Price of Peace. In those campaigns Solmyr runs from one side to another, and saves the day destroying his master's Gavin Magnus' memory forever.",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Theodorus.gif",
+    "name": "Theodorus",
+    "race": "Human",
+    "biography": "Theodorus is easily one of the best spellcasters around. Some say it is time for him to retire, but his mind is still as calculating as ever. Since the Reckoning, he has stopped teaching other spellcasters and started a new career documenting artifacts and their powers.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Human Wizard",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Aine.gif",
+    "name": "Aine",
+    "race": "Genie",
+    "biography": "Aine is an ancient genie who enjoys being surrounded by wealth. She wears expensive silks, elaborate jewelry, and rare perfumes. Despite her desire for the finer things in life, Aine also insists on sharing what she can because as she says, \"You can't take it with you when you die\".",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Genie Wizard",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Brissa.gif",
+    "name": "Brissa",
+    "race": "Genie",
+    "biography": "Young by genie standards, Brissa set out for a life of adventure and fun with no particular skills. So, she learned along the way, usually from her mistakes, but even today her actions are often too impetuous.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Genie Elementalist",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Calyphona.gif",
+    "name": "Calyphona",
+    "race": "Human",
+    "biography": "Calyphona came from high society where style and wit are prized above all else. She always dresses perfectly for every situation. She even carries this attention to detail over to her practice of magic. Seldom has Calyphona blown a spell, even during her apprenticeship.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Cyra.gif",
+    "name": "Cyra",
+    "race": "Human",
+    "biography": "Cyra originally learned magic to cast a spell on the man she loved, but he turned out to be different from what she expected. She has abandoned silly practices such as concocting love potions, and now seriously pursues her art. Unfortunately, Cyra still has not found someone to love.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Human Wizard",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Daremyth.gif",
+    "name": "Daremyth",
+    "race": "Genie",
+    "biography": "New tests of Daremyth's courage are bound to attract her attention. She has been around for a long time and has risked her life in just about every way imaginable. Boredom is her enemy, so she wanders in search of something new to do.",
+    "history": "Since Restoration of Erathia (Homm3 All Parts) Genie Wizard",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Grunkie.gif",
+    "name": "Grunkie",
+    "race": "Dwarf",
+    "biography": "Grunkie was a wizard's maid until she discovered that she had a talent for spellcasting. She was fired after a nasty incident that left her employer homeless. The details are best left unspoken. Now, after years of study, her magic is crude but still effective.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Melody.gif",
+    "name": "Melody",
+    "race": "Halfling",
+    "biography": "In no way does Melody's cheerful name fit her manner. She's a serious, abrasive halfling who feels the need to organize everything around her - everything! But these organizational skills have made her a precise and powerful mage.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Minasli.gif",
+    "name": "Minasli",
+    "race": "Human",
+    "biography": "Minasli was the type of child who takes things apart to find out how they work. This curiosity carried over into her adulthood. For her, studying magic is a slow process because she is more interested in taking spells apart than learning new ones.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Redwara.gif",
+    "name": "Redwara",
+    "race": "Dwarf",
+    "biography": "Redwara was orphaned in her youth and raised by an uncle in a university of magic in Bracada. It was only natural that she would study magic, even though she was a dwarf. Today, she retains the university's values of discipline and diligence, using them to guide her life.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Suzieque.gif",
+    "name": "Suzieque",
+    "race": "Halfling",
+    "biography": "Suzieque's happy-go-lucky nature is infectious to the point that she often inspires others to whistle a merry tune. However, she is a stickler for neatness to the point that even she will lose her temper when things are out of place.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Tina.gif",
+    "name": "Tina",
+    "race": "Halfling",
+    "biography": "Dwarven miners searching for tin chipped this halfling from a shell of solid stone where she had been imprisoned for centuries. No one knows how she got there, not even her, so the dwarves named her Tina. All that remains is to find out who she is and where she came from.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Urnaka.gif",
+    "name": "Urnaka",
+    "race": "Dwarf",
+    "biography": "Urnaka and her husband used to run a forge, selling their work to the highest bidder. Sadly, her husband perished in the Reckoning. She hasn't stepped foot in a forge since, embarking instead on a new career as an mage.",
+    "history": "New",
+    "sex": "female"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/CaptainSwift.gif",
+    "name": "Captain Swift",
+    "race": "Male Human",
+    "biography": "Swift is the infamous captain of the pirate ship, Assassin. Although he is as merciless as any rogue, he sometimes exhibits a sense of honor that most pirates scoff at. Perhaps there is some truth to the rumor that Swift used to be an admiral in the Queen's navy.",
+    "history": "New\n\tPart in: A Pirate's Daughter",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/PeteGirly.gif",
+    "name": "Pete Girly",
+    "race": "Male Human",
+    "biography": "Pete is famous for his skills in torture and interrogation. He is a dangerous man to have as an enemy, but can’t be trusted as an ally either. He gets his odd name from his extremely long, blonde hair - a joke he accepts with pride now, but the man who first made it up is long dead.",
+    "history": "New\n\tPart in: A Pirate's Daughter",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/TawniBalfour.gif",
+    "name": "Tawni Balfour",
+    "race": "Female Human",
+    "biography": "It took a cutthroat attitude and calculating ambition for Tawni to survive the rough sailor towns where she was raised. When this fiercely independent woman became a pirate, she soon followed her infamous father’s footsteps and became the scourge of the sea. No matter how much Tawni gains, however, it is never enough.",
+    "history": "New\n\tPart in: A Pirate's Daughter",
+    "sex": "male"
+  },
+  {
+    "imageUrl": "http://www.heroesofmightandmagic.com/heroes4/images/heroes/Cyrca.gif",
+    "name": "Cyrca",
+    "race": "Female Half-Medusa",
+    "biography": "Cyrca is the daughter of a powerful medusa sorceress and a human necromancer. She later followed in her mother’s footsteps and became a leader of her people. Although she is not a real medusa (and can’t turn anyone into stone), she has held her rule thanks to her considerable magical talent.",
+    "history": "New\n\tPart in: A Pirate's Daughter (Original Homm4 Chaos Campaign).",
+    "sex": "female"
+  }
+]
