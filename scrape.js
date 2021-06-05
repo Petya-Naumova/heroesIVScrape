@@ -34,9 +34,10 @@ const fs = require('fs');
         /**
          * Saving of images
          */
-        for (const hero of heroes) {
+        for (let hero of heroes) {
             const imageSource = await page.goto(hero.imageUrl);
             const fileName = /\/([^\.\/]+\.[a-z]{3})$/.exec(hero.imageUrl)[1];
+            hero.imageUrl = fileName;
             const imageData = await imageSource.buffer();
             fs.writeFileSync(`${imagesDir}${fileName}`, imageData);
         }
